@@ -1,2 +1,1 @@
-# tekfordotomotiv.github.io
-tekfordotomotiv.com - hosting
+tekfordotomotiv.com - webhosting
